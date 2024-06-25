@@ -1,0 +1,25 @@
+* {
+    font-family: Arial;
+}
+
+body {
+    background-color: #FFCC00;
+    color: #1E1E1E; 
+    font-family: 'Gill Sans', 'Lucida Sans', sans-serif;
+}
+
+h1 {
+    color: #FFFFFF; 
+    background-color: #1E1E1E;
+    font-size: 70pt;
+}
+
+h2 {
+    color: #1E1E1E; 
+    font-size: 38pt;
+}
+
+p {
+    font-size: 18px;
+    color: #EBEBEB;
+}
