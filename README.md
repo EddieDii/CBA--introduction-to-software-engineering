@@ -1,5 +1,5 @@
 I just completed Commonwealth Bank's Introduction to Software Engineering Program. 
-## In the simulation I:
+## In the simulation:
 * Completed a job simulation involving web development and cybersecurity for the Commonwealth Bank Software Engineering Program.
 * Developed proficiency in HTML and CSS, leveraging these languages to create and style a responsive web page adhering to specific branding guidelines.
 * Acquired foundational knowledge in financial cybersecurity principles, synthesizing complex information into clear, actionable advice for enhancing client security.
